@@ -1,0 +1,1 @@
+srcds -game csgo -console -usercon -autoupdate +ip 0.0.0.0 -maxplayers_override 22 -tickrate 128 +hostport 27015 +clientport 27015 -port 27015 +tv_port 28015 +sv_lan 1 +game_type 0 +game_mode 1 +mapgroup mg_active +map de_dust2 +fps_max 0

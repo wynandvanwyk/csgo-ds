@@ -1,0 +1,7 @@
+{
+  "install_path": "csgo",
+  "steamcmd_download_url": "https://steamcdn-a.akamaihd.net/client/installer/steamcmd.zip",
+  "sourcemod_url": "https://sm.alliedmods.net/smdrop/1.8/sourcemod-1.8.0-git6041-windows.zip",
+  "metamod_url": "https://mms.alliedmods.net/mmsdrop/1.10/mmsource-1.10.7-git961-windows.zip",
+  "warmod_url": "https://warmod.bitbucket.io/plugins/warmod.smx"
+}
